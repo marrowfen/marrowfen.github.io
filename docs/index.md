@@ -1,6 +1,5 @@
 # Home
 
-Na
 
 ## Welcome to Marrowfen
 
