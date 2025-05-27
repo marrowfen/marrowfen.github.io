@@ -67,7 +67,7 @@
 		- [[World Log]]: #1 and #2
 - **Named Locations:**
 	- *“Beaverbank River”*
-		- Named after the adventures of *Arteme*, *Larient*, *Bryan Ragnarok*, *Generosity*, *Massiah Omega*
+		- Named after the adventures of *Arteme*, and *Bryan Ragnarok*
 		- [[World Log]]: #1
 - **Character Memorials / Stories:**
 	- Above the door inside *The Starry Crossing* tavern is a plaque:
