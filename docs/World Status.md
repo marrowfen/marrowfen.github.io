@@ -6,7 +6,7 @@
 - **Permanent Residents:** [ 9 ]
 - **Guests:** [ 0 ]
 - **Current Season:** [ ***Spring*** / Summer / Fall / Winter ]
-- **Current Year:** Year 1 - Year of the Beaver
+- **Current Year and Season:** Year 1, Spring - Year of the Beaver
 
 ## Land & Resources
 
