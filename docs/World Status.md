@@ -63,12 +63,12 @@
 
 - **Player-Built Structures:**    
 	- *Bridge #1*
-		- Built by Arteme, Larient, Bryan Ragnarok, Generosity, Massiah Omega, Grush, Vespa, Damian
+		- Built by *Arteme*, *Larient*, *Bryan Ragnarok*, *Generosity*, *Massiah Omega*, *Grush*, *Vespa*, *Damian*
 - **Named Locations:**
 	- *“Beaverbank River”*
-		- Named after the adventures of Arteme, Larient, Bryan Ragnarok, Generosity, Massiah Omega
+		- Named after the adventures of *Arteme*, *Larient*, *Bryan Ragnarok*, *Generosity*, *Massiah Omega*
 - **Character Memorials / Stories:**
 	- Above the door inside the tavern is a plaque:
-> **To the Adventurers of the Starry Shores** - Who, despite the tribulations, helped secure the western passage across the river and gathered the resources to build our first tavern… **We will never forget you!**
+> ***To the Adventurers of the Starry Shores** - Who, despite the tribulations, helped secure the western passage across the river and gathered the resources to build our first tavern… **We will never forget you!***
 
 
