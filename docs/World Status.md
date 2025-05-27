@@ -59,18 +59,5 @@
 | 💰 Economy     | Trade value, access to goods, local production                   | None                | Marketplace, Storehouses, Dock, Crafting Buildings |
 | 🧭 Exploration | Regional awareness and readiness to discover new land or threats | None                | Scouting Posts, Watchtowers, Mapping Progress      |
 
-## Player Impact
-
-- **Player-Built Structures:**    
-	- *Bridge #1*
-		- Built by *Arteme*, *Larient*, *Bryan Ragnarok*, *Generosity*, *Massiah Omega*, *Grush*, *Vespa*, *Damian*
-		- [[World Log]]: #1 and #2
-- **Named Locations:**
-	- *“Beaverbank River”*
-		- Named after the adventures of *Arteme*, and *Bryan Ragnarok*
-		- [[World Log]]: #1
-- **Character Memorials / Stories:**
-	- Above the door inside *The Starry Crossing* tavern is a plaque:
-> ***To the Adventurers of the Starry Shores** - Who, despite the tribulations, helped secure the western passage across the river and gathered the resources to build our first tavern… **We will never forget you!***
 
 
