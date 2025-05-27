@@ -81,13 +81,17 @@ extra:
 
 extra_css:
     - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css
+    - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
     - assets/css/custom.css
     - assets/css/obsidian-style-callouts.css
+    - assets/css/marrowfen-map.css
 
 extra_javascript:
     - https://unpkg.com/mermaid/dist/mermaid.min.js
     - https://code.jquery.com/jquery-3.7.1.min.js
+    - https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
     - assets/js/obsidian-style-callouts.js
     - assets/js/copy-inline-code.js
     - assets/js/copy-code.js
     - assets/js/copy-image-url.js
+    - assets/js/marrowfen-map.js 
