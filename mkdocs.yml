@@ -85,6 +85,8 @@ extra_css:
     - assets/css/custom.css
     - assets/css/obsidian-style-callouts.css
     - assets/css/marrowfen-map.css
+    - assets/css/timeline.css
+
 
 extra_javascript:
     - https://unpkg.com/mermaid/dist/mermaid.min.js

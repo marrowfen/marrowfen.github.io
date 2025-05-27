@@ -12,7 +12,7 @@ The world ages are named after the first major event that happened during that y
   </div>
   <div class="timeline-entry right">
     <div class="timeline-content">
-      <p>Construction of the first bridge.</p>
+      <p>Construction of the first bridge</p>
     </div>
   </div>
   <div class="timeline-entry left">
