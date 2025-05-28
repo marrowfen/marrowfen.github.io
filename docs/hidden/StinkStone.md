@@ -83,3 +83,15 @@ The goblins of StinkStone have lived and bred among coal and fire for so long th
 ---
 
 StinkStone is more than a mine — it's a living monument to survival, transformation, and the primal power of fire given form. Whether players seek trade, conquest, or understanding, they’ll find more than they bargained for in the glowing shadows of the coal hills.
+
+
+
+![[strinkstone_figure.png]]
+
+![[blackstone_and_sparklestone.png]]
+
+![[stinkstone_guards.png]]
+
+![[stinkstone_throneroom.png]]
+
+
