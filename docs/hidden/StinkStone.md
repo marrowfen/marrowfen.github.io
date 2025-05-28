@@ -250,6 +250,70 @@ _Hit:_ 9 (1d6 + 2) piercing + 2d6 fire. Flammable targets may ignite.
 
 ---
 
+## Names
+
+### 🔥 **Warrior or Guard Names**
+
+- CoalFang
+	- "I am CoalFang, son of AshMaw, son of BrimCrack, son of SootGrin, son of EmberGut, son of SmokeCling, son of FlintSnag, son of CharNip, son of BurnRattle, son of SparkRib, son of MoltTooth, son of HeatSnipe, son of DustGroan, son of GlowLug, son of FumeJaw, son of SlagBite, son of BlisterCough, son of SingeSpine, son of CrackleVise, son of SmeltPoke, son of PyreDrip, son of GrimeChew, son of GlintScuff, son of SearTug, son of ScorchKnob."
+- IronCinder
+- AshBreaker
+- FlameRake
+- SootBlade
+- EmberClash
+- BrimStone
+- CharCrack
+- PyreGrin
+- GlowScab
+### ✨ **Craftsmen / Artisans / Fire Sculptors**
+
+- ShimmerCoal
+- GlintShard
+- StarChip
+- AshEtch
+- FlareNip
+- VeinGleam
+- GlowDust
+- FlickerKnack
+- CarveSoot
+- BurnLace
+### 🧠 **Scholars / Elders / Seers**
+
+- SearMark
+- CinderTale
+- EmberKnow
+- SmolderMind
+- CoalWhisper
+- BlightTongue
+- GlowRune
+- AshMuse
+- BlisterScript
+- SparkSayer
+### 😈 **Troublemakers / Scouts / Younger Goblins**
+
+- SnapCrackle
+- SmokeNib
+- SkitterFlame
+- CrackleSnag
+- FumeFlick
+- EmberWink
+- TwitchCoal
+- PuffSnag
+- BurnStub
+- CharScrap
+### 🧑‍🤝‍🧑 **Neutral or Versatile Utility Goblins**
+
+- DustShale
+- GritGlow
+- SparkNose
+- HeatScuff
+- CharTug
+- RockLick
+- SingeRib
+- BlazeDrip
+- FlakeJaw
+- MoltSkim
+
 ## Tokens
 
 ![[BlackStone.png]]
