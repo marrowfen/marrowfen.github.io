@@ -253,7 +253,7 @@ _Hit:_ 9 (1d6 + 2) piercing + 2d6 fire. Flammable targets may ignite.
 ## Tokens
 
 ![[BlackStone.png]]
-
+![[SparkleStone – Fire Sculptor of StinkStone.png]]
 
 
 
