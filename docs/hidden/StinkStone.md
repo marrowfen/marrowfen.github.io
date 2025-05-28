@@ -250,6 +250,15 @@ _Hit:_ 9 (1d6 + 2) piercing + 2d6 fire. Flammable targets may ignite.
 
 ---
 
+## Tokens
+
+![[BlackStone.png]]
+
+
+
+
+## Images
+
 ![[strinkstone_figure.png]]
 
 ![[blackstone_and_sparklestone.png]]
