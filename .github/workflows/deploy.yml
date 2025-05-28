@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install mkdocs-material
-          pip install mkdocs-roamlinks-plugin mkdocs-blog-plugin mkdocs-rss-plugin mkdocs-awesome-pages-plugin pymdown-extensions
+          pip install mkdocs-roamlinks-plugin mkdocs-blog-plugin mkdocs-rss-plugin mkdocs-awesome-pages-plugin pymdown-extensions mkdocs-exclude
 
       - name: Build site
         run: mkdocs build --strict

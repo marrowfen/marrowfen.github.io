@@ -67,6 +67,7 @@ plugins:
         - tags
 
 
+
 extra:
     consent:
         title: Cookie consent
