@@ -84,7 +84,171 @@ The goblins of StinkStone have lived and bred among coal and fire for so long th
 
 StinkStone is more than a mine — it's a living monument to survival, transformation, and the primal power of fire given form. Whether players seek trade, conquest, or understanding, they’ll find more than they bargained for in the glowing shadows of the coal hills.
 
+---
 
+### Stat Blocks
+#### 🔥 **BlackStone, Chieftain of Flame**
+
+_Medium humanoid (goblin), Lawful Neutral_  
+**Armor Class** 18 (anthracite-forged shield and plate)  
+**Hit Points** 190 (20d8 + 100)  
+**Speed** 30 ft.
+
+**STR** 18 (+4) **DEX** 14 (+2) **CON** 20 (+5)  
+**INT** 10 (+0) **WIS** 12 (+1) **CHA** 16 (+3)
+
+**Saving Throws** Str +8, Con +9, Wis +5  
+**Skills** Intimidation +7, Athletics +8  
+**Damage Resistances** Nonmagical bludgeoning, piercing, slashing  
+**Damage Immunities** Fire  
+**Condition Immunities** Charmed, Frightened  
+**Senses** Darkvision 90 ft., Passive Perception 11  
+**Languages** Goblin, Ignan, Common  
+**Challenge** 10 (5,900 XP)
+
+### Traits
+
+**Essence of Flame.** All of BlackStone’s fire-based abilities are innate and non-magical. They cannot be counterspelled or dispelled.
+
+**Living Furnace (1/Day).** For 1 minute, BlackStone is wreathed in heat. Melee attackers take 1d10 fire damage. Creatures starting their turn within 5 ft. take 5 fire damage.
+
+### Actions
+
+**Anthracite Greatsword.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target.  
+_Hit:_ 15 (2d10 + 4) slashing plus 7 (2d6) fire.
+
+**Heat Pulse (Recharge 5–6).** BlackStone slams the ground, emitting a 20-foot radius burst of heat. Each enemy must make a DC 17 Constitution save or take 21 (6d6) fire damage and become **Blinded** until the end of their next turn. On a success, they take half damage and are not blinded.
+
+---
+
+#### ✨ **SparkleStone, Keeper of Shards**
+
+_Medium humanoid (goblin), Chaotic Neutral_  
+**Armor Class** 17 (flowing flame forms and anthracite accents)  
+**Hit Points** 130 (15d8 + 60)  
+**Speed** 30 ft.
+
+**STR** 10 (+0) **DEX** 16 (+3) **CON** 18 (+4)  
+**INT** 14 (+2) **WIS** 12 (+1) **CHA** 18 (+4)
+
+**Saving Throws** Dex +7, Cha +8  
+**Skills** Insight +5, Persuasion +8, Arcana +6  
+**Damage Resistances** Force  
+**Damage Immunities** Fire  
+**Condition Immunities** Charmed  
+**Senses** Darkvision 90 ft., Passive Perception 11  
+**Languages** Goblin, Elvish, Common  
+**Challenge** 9 (5,000 XP)
+
+### Traits
+
+**Starcoal Attunement.** Once per round, if a spell is cast within 30 ft. of SparkleStone, she may use her reaction to reduce its damage by half, absorbing the energy into her gem-laced jewelry.
+
+**Fire Sculptor.** SparkleStone does not wield conventional weapons. Instead, she sculpts flame into any weapon or shield she desires as an _item interaction_. She may change this shape freely on her turn (e.g., sword → whip → shield). Flame weapons deal **fire damage** and count as magical. She cannot be disarmed unless her flame essence is suppressed.
+
+### Actions
+
+**Flame Lash.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target.  
+_Hit:_ 12 (2d6 + 5) fire damage, and target must succeed on a DC 15 Strength save or be pulled 5 feet closer.
+
+**Shatterflare Shot (Recharge 5–6).** SparkleStone fires a searing bolt of gem-tipped flame in a 15-foot cone. Each creature must make a DC 16 Dexterity save. On a fail: 27 (6d8) fire damage and **Blinded** until end of next turn. On success: half damage, no blindness.
+
+---
+
+#### 🔥 **StinkStone Guard**
+
+_Medium humanoid (goblin), Neutral_  
+**Armor Class** 16 (anthracite armor)  
+**Hit Points** 55 (7d8 + 21)  
+**Speed** 30 ft.
+
+**STR** 14 (+2) **DEX** 14 (+2) **CON** 16 (+3)  
+**INT** 8 (-1) **WIS** 10 (+0) **CHA** 10 (+0)
+
+**Damage Immunities** Fire  
+**Senses** Darkvision 60 ft., Passive Perception 10  
+**Languages** Goblin  
+**Challenge** 3 (700 XP)
+
+### Traits
+
+**Essence Flame.** As a bonus action, the goblin may ignite their weapon for 1 minute. While ignited, the weapon deals an additional 1d6 fire damage.
+
+**Coal Skirmisher.** While standing on or near anthracite terrain, the goblin has +2 AC against ranged attacks.
+
+### Actions
+
+**Anthracite Blade.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target.  
+_Hit:_ 8 (1d8 + 2) slashing + 3 (1d6) fire.
+
+**Blazing Javelin (2/day).** _Ranged Weapon Attack:_ +5 to hit, range 60 ft., one target.  
+_Hit:_ 9 (1d6 + 2) piercing + 2d6 fire. Flammable targets may ignite.
+
+---
+
+## Trials
+
+#### 🔥 **Trial of Flame and Ash**
+
+> **Purpose:** To determine if outsiders are worthy of speaking with BlackStone as equals — not as beggars or merchants, but as those who _understand fire._
+
+### 🪨 Format
+
+**The Trial has three parts**, symbolizing what the goblins believe fire reveals:
+
+1. **What You Can Endure (Survival)**
+2. **What You Can Master (Control)**
+3. **What You Will Burn (Conviction)**
+
+---
+
+### 🔥 1. **The Ember Walk**
+
+**Test of Endurance & Pain**
+
+- Players must walk across a trench of glowing anthracite coals barefoot (or otherwise exposed). Magic that _negates_ damage is **banned**; pain must be accepted to prove resilience.
+- Fire damage is real — but non-lethal.
+- _SparkleStone watches carefully to see who grits through it, and who shies away._
+
+> **Design Notes:**  
+> Add flavor like fire spirits whispering doubt, or glowing embers that respond to resolve.
+
+---
+
+### 🔥 2. **The Flamebind**
+
+**Test of Control & Will**
+
+- Each participant is handed a **living coal** — a chunk of fire essence.
+- They must **ignite** a nearby sculpture or weapon using only this ember and their own control (roleplay, spell flavor, or skills like Sleight of Hand, Arcana, or even raw force of will).
+- Those who panic or fail may spark uncontrolled flame — and must put it out _themselves_.
+- SparkleStone judges this part closely.
+
+> **Design Notes:**  
+> This is about **deliberate fire**, not rage or destruction. Creative solutions are rewarded.
+
+---
+
+### 🔥 3. **The Ash Oath**
+
+**Test of Conviction & Sacrifice**
+
+- Each participant must choose **one thing to burn** — a possession, token, or object of value.
+- This isn't a trick. The goblins _respect those who give up something real_ to prove they're not manipulators.
+- The offering is placed in the **Ember Pit** before BlackStone.
+
+> **Design Notes:**  
+> This is where player roleplay and emotion shine. BlackStone will respect this moment most of all.
+
+---
+
+### 🧠 Outcomes & Interpretation
+
+- **Pass All 3:** The party earns the right to speak as equals. BlackStone listens — _still cautious, but open._ SparkleStone may speak privately with them later, showing interest.
+- **Pass 2/3:** They may be granted temporary audience but must earn more trust through deeds.
+- **Fail 2+ or mock the ritual:** Considered unworthy. The goblins will not attack unless provoked — but they _will not help._
+
+---
 
 ![[strinkstone_figure.png]]
 
