@@ -14,7 +14,7 @@ function renderMarrowfenMap() {
   map.fitBounds(bounds);
 
   const markers = [
-    { coords: [700, 505], label: "Stone and Copper ore mine" },
+    { coords: [700, 505], label: "Stone and Iron ore mine" },
     { coords: [725, 710], label: "Clay and reeds" },
     { coords: [635, 550], label: "Bridge #1 - Log 1 and 2" },
     { coords: [600, 575], label: "The Starry Crossing tavern - Log 1 and 2" },
