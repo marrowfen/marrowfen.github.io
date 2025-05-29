@@ -19,7 +19,7 @@
 	- **Clay:** [ 300 units ]
 	- **Reeds:** [ 25 units ]
 	- **Metal:**
-		- **Iron:**
+		- **Copper:**
 			- **Ore:** [ 15 units ]
 			- **Ingots:** [ 0 units ]
 	- **Other:** [ 0 units ]
