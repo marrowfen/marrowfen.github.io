@@ -16,7 +16,6 @@
     padding-right: 1rem;
 }
 
-
 img {
     position: relative;
     display: block;
@@ -112,4 +111,13 @@ pre:hover .copy-button {
     width: 14px;
     height: 14px;
     stroke: #fff;
+}
+
+/* ===== Header ===== */
+.md-header {
+    transition: transform 0.2s ease-in-out;
+}
+
+.md-header--hidden {
+    transform: translateY(-100%);
 }

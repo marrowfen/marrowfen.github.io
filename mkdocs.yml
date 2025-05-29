@@ -11,7 +11,7 @@ theme:
         - navigation.tabs.sticky
         - navigation.indexes
         - toc.follow
-        - header.autohide
+        # - header.autohide
     palette:
         - media: "(prefers-color-scheme: light)"
           scheme: default
@@ -97,4 +97,5 @@ extra_javascript:
     - assets/js/copy-inline-code.js
     - assets/js/copy-code.js
     - assets/js/copy-image-url.js
-    - assets/js/marrowfen-map.js 
+    - assets/js/marrowfen-map.js
+    - assets/js/header-autohide.js
