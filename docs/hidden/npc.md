@@ -2,7 +2,6 @@
 
 #### Hale Vayne – Weathered Woodsman  
 (Athletics, Survival, Carpenter’s Tools)
-
  Broad-shouldered and stone-quiet, Hale Vayne looks like he’s been in more fights with trees than people — and lost none of them. His face bears a thick scar like a snapped branch, and his clothes smell of pine, sweat, and leather. He built his hide-and-rope tent from scratch and sleeps in it boots on, blade nearby. If he says more than three words, something’s wrong.
 - Broad-shouldered and quiet
 - Clears trees like he’s in a fistfight with the forest.
@@ -10,35 +9,24 @@
 - Has an old scar shaped like a branch across his face
 - Built his own tent out of stitched hide and rope
 
-  
-
 #### Bram Tallowfoot – Jolly Camp Builder  
 (Carpenter’s Tools, Performance)
-
 A round-bellied human with curly hair and a belly laugh louder than a war drum, Bram keeps the camp upright in both spirit and structure. With a whistle in his beard and a song in his lungs, he builds with a kind of instinctive grace that turns timber into homes. Known for once wrestling a boar and apologizing to it, Bram is beloved, dependable, and occasionally tipsy on berry wine.
 - Round-bellied human with curly hair
 - Singing voice better than any bard you’ve heard
 - Can measure, cut, and join timber without looking
 - Keeps a wood-carved flute in his belt
 - Once wrestled a boar into submission (and apologized to it after)
-
-  
-
 #### Thorn Barrow – Retired Soldier, Reluctant Farmer  
 (Athletics, Survival, Mason’s Tools)
-
 With a single eye and a perpetual scowl, Thorn Barrow plants vegetables like he’s laying siege. Everything he does has a soldier’s precision — from trench-digging to militia drills to sharpening his shovel “just in case.” He rarely speaks unless it’s a correction, a warning, or the word “No.” Yet behind the crust, there’s a loyalty as strong as steel… and a soft spot only his grandson ever sees.
 - Gruff and one-eyed
 - Thorn’s idea of “light conversation” is naming all the ways a shovel can kill.
 - Digs trenches and foundations like he’s back in the war
 - Trains anyone who asks — or annoys him enough
 - Sleeps upright with a sword on his chest
-
-  
-
 #### Corwin Greaves – Aspiring Inventor  
 (Tinker’s Tools, Smith’s Tools, Arcana)
-
 Corwin is a lanky, soot-smudged tinker with bright ideas and burn marks to prove it. His eyes dart from gear to gear as though already building something in his head. Known for his madcap designs — some brilliant, some explosive — he never eats the same meal twice and always smells like burnt copper. His fingers are calloused, his hair wild, and his dreams bigger than the camp itself.
 - Tall, twitchy man with soot-stained gloves and big dreams
 - His contraptions usually work. Eventually
@@ -52,7 +40,6 @@ Corwin is a lanky, soot-smudged tinker with bright ideas and burn marks to prove
 
 #### Nira Vayne – Witchy Healer & Soft-Spoken Shield  
 (Medicine, Herbalism Kit, Arcana)
-
 Nira Vayne is calm as still water and sharp as its undertow. Married to the gruff Hale, she’s the quiet force who binds the camp together — sometimes with stitches, sometimes with whispered curses. Always up before dawn, she moves with purpose, herbs swaying at her hip. Children cling to her skirts, and strangers feel their hair rise under her gaze. If you’ve crossed her, you’ll know. If you’re under her care, you’ll be safe.
 - Married to Hale.
 - Soft voice, calloused hands
@@ -60,12 +47,8 @@ Nira Vayne is calm as still water and sharp as its undertow. Married to the gruf
 - Wears a bundle of herbs on her hip like a weapon
 - Sleeps beside the fire but wakes before the dawn 
 - Protective of the camp’s children, wary of strangers
-
-  
-
 #### Merribelle Tallowfoot – Cook, Gossip, Knife Collector  
 (Cook’s Utensils, Insight, Water Vehicles)
-
 Merribelle is half the size of her stew pot and twice as sharp as any of her seventeen named knives. With a booming voice, a belly laugh, and a glare that could curdle milk, she keeps the camp fed, informed, and in line. Call her “ma’am” and you’re fine. Call her “little lady” and you’ll meet “Butterstick” — her favorite paring knife. She knows every secret whispered in sleep and who’s been sneaking second helpings.
 - Bram’s wife
 - Tiny human with a personality three times her size
@@ -74,12 +57,8 @@ Merribelle is half the size of her stew pot and twice as sharp as any of her sev
 - Owns 17 knives and names each one
 - Calls everyone “honey” or “bastard,” depending on the day
 - Keeps the camp running on stew, spite, and strong drink
-
-  
-
 #### Elka Redfern – Marshland Tracker & Hunter  
 (Survival, Stealth, Nature, Herbalism Kit)
-
 Elka moves like smoke through reeds, silent and watching. Her hood of crow feathers and cloak of oiled hide speak of skill and survival more than fashion. She smells of peat and ash, and her voice comes low and slow — if it comes at all. Each tooth or talon she carries is a story of something that didn’t walk away. People are tolerated. Dogs are loved. And fences? Those are challenges.
 - Lean, sharp-eyed, and always smelling faintly of bogwater and smoke.
 - Elka doesn't speak unless it's necessary — and when she does, it's usually a warning.
@@ -95,9 +74,7 @@ Elka moves like smoke through reeds, silent and watching. Her hood of crow feath
 
 #### Wren Greaves – Tinker's Daughter, Marsh Sneaker  
 (Tinker’s Tools (basic), Stealth, Survival)
-
  Eight years old and too clever by half, Wren darts through the reeds like a breeze through chimes. With copper-scented fingers and moss-streaked legs, she builds traps for bugs and chats with frogs like old friends. She’s barefoot, bold, and just as likely to vanish into a thicket as to turn up holding a clockwork thing she shouldn’t have. Her father’s inventions are dangerous. Wren is worse.
-
 A wiry girl of about 8 with wind-tangled hair and a knack for disappearing into places she shouldn’t be.
 - Daughter of Corwin Greaves (the aspiring inventor)
 - Usually barefoot, usually muddy
@@ -108,9 +85,7 @@ A wiry girl of about 8 with wind-tangled hair and a knack for disappearing into 
 
 #### Tomlin Barrow – Thorn’s Grandson, Strong & Small  
 (Perception, Athletics (low), Insight)
-
 Round-faced and wide-eyed, Tomlin marches through camp like he owns it — or at least guards it. With his wooden sword “Ser Fang” always at his side and a scowl that doesn’t quite hide his curiosity, he takes his job seriously: protecting Marrowfen, following Thorn’s example, and learning “village protocol.” He’s seven, rarely smiles, and tries to correct adults in his best soldier voice. It’s adorable. He’d hate that you said that.
-
 Round-faced and serious, Tomlin (age 9) tries to act older than he is — mostly because he's being raised by Thorn Barrow.
 - Grandson of Thorn Barrow
 - Carries a wooden practice sword and calls it “Ser Fang”
