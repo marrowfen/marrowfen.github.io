@@ -2,6 +2,7 @@
 
 ## Navigation
 - [[World Status]]
+- [[World Events]]
 - [[World Log]]
 - [[World Ages]]
 - [[Marrowfen Map]]
