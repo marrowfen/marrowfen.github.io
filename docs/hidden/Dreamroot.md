@@ -34,12 +34,43 @@
 Features a strange puppet theater reenacting nonsensical children's tales. Each tale is out of order or scrambled. Players must restore the proper sequence based on obscure narrative logic (e.g., "The Frog Who Ate the Moon," "Why Rain Hates Hats," "The Beetle and the Broken Bell").
 
 #### Clockwork Orchard
-Wren’s fears manifested as broken toys and sparking gadgets block the path. Players must use creative thinking or empathy to disarm them (e.g., finding the key that isn't a key, or singing a lullaby to stop a toy from shaking).
+This part of the dreamworld is a grove of mechanical trees. Their trunks are smooth brass, their leaves ticking slowly like watch hands. Mist hangs low to the ground, and strange toys lie half-buried in moss and coils. These are not enemies, but echoes of Wren’s quiet fears. The players must help three toys complete themselves — and in doing so, recover a piece of her bracelet.
+
+**Toy 1: The Crying Music Box Doll**
+
+A porcelain doll with a cracked face rocks slowly in place. Her eyes blink out of sync, and she whispers, “Don’t forget… don’t forget…” again and again, but never finishes.
+
+If a player sings to her, comforts her gently, or succeeds on a DC 14 Insight or Performance check, she stills, then says quietly, “…I am enough.”  \
+
+Something clicks inside her chest. A **crank**, warm to the touch and shaped like a curled music note, slides out and falls to the forest floor.
+
+**Toy 2: The Tin Rabbit That Can’t Stop**
+
+A metal rabbit darts in tight circles, occasionally bumping into trees. Sparks snap from its joints. It repeats, “No time. No time. No time…” as it loops endlessly.
+
+If a player kneels calmly in its path, offers something peaceful (like a flower or moment of quiet), or succeeds on a DC 13 Sleight of Hand or Animal Handling check, the rabbit stops. Its voice changes: “…maybe smelling them is fine.”  
+It gently lowers its head and drops a small **gear**, faintly glowing with dreamlight.
+
+**Toy 3: The Upside-Down Jack-in-the-Box**
+
+This toy is twisted. Its base is flipped, the crank missing, and the door is closed. It mutters, “Not ready. Never ready. Go away.”
+
+The box resists brute force. If players try to open or shake it, it lets out a high-pitched tone and briefly distorts the dream around them.
+
+If the **gear** from the rabbit is slotted into a hidden groove in the box bottom, and the **crank** from the doll is inserted into its side, the box begins to hum. Even without turning the crank, it slowly stirs to life.
+
+After a pause, it whispers, “I think… I’m ready.”  
+
+The toy springs open with a soft pop. A piece of Wren’s bracelet flies out and lands in the grass at the players’ feet.
+
+**Failure Reactions**
+
+The toys never attack. Instead, mishandling or forcing them results in emotional echoes — a player might forget their own name for a moment, feel suddenly afraid of the dark, or hear their mother’s voice whispering something that never happened. These effects fade quickly and leave no damage — just a reminder that this place responds to meaning, not might.
 
 #### The Whispering Library
-A library that stretches as far as the eyes can see, all of the books are in place neatly on the shelves except for 4 books which are laying in the middle of the floor.
+A library that stretches as far as the eyes can see, all of the books sit neatly on their shelves — except for four lying in the middle of the floor.
 
-Looking around the players see a spot on one of the shelves for 4 books to be placed side by side. 
+Nearby, an empty section of shelf waits for four books to be placed side by side.
 
 The books must be placed in the correct order on the shelf. There are a few hints in the book titles to help guide the players toward the solution.  
 
