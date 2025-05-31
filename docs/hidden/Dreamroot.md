@@ -30,9 +30,18 @@
 
 **Key Locations:**
 
-#### The Memory Meadow
-Features a strange puppet theater reenacting nonsensical children's tales. Each tale is out of order or scrambled. Players must restore the proper sequence based on obscure narrative logic (e.g., "The Frog Who Ate the Moon," "Why Rain Hates Hats," "The Beetle and the Broken Bell").
+#### Emotion Garden (Pattern Matching / Interpretation Puzzle)
+The meadow blooms with enormous, dreamlike flowers — each tied to an emotion or memory. Frogs, mice, and bugs carry small items (a locket, a broken stick, a dried leaf) and try to match them to the flowers. But they always get it wrong.
 
+**Puzzle Goal:** Players must help the animals match each object to the flower that best represents the _emotion_ tied to Wren’s childhood memory.
+
+**Examples:**
+
+- A cracked thimble matches with a flower labeled “fear” (first time she touched her father’s tools and cut herself)
+- A firefly in a jar belongs with “wonder” (when she first caught light)
+- A muddy ribbon goes with “loneliness” (when no one came to her tea party)
+
+**Mechanics:** Insight, Arcana, or raw empathy. Once all are matched correctly, the animals perform a short, silent dance in thanks — and a fragment of the bracelet grows from the soil.
 #### Clockwork Orchard
 This part of the dreamworld is a grove of mechanical trees. Their trunks are smooth brass, their leaves ticking slowly like watch hands. Mist hangs low to the ground, and strange toys lie half-buried in moss and coils. These are not enemies, but echoes of Wren’s quiet fears. The players must help three toys complete themselves — and in doing so, recover a piece of her bracelet.
 
