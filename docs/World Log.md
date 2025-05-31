@@ -1,5 +1,5 @@
 # Log
-
+---
 ## Player Impact
 
 - **Player-Built Structures:**    

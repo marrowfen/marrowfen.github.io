@@ -1,5 +1,6 @@
 # Status
 
+---
 ## Settlement Overview
 - **Settlement Tier:** Outpost
 - **Population:** [ 9 ]
@@ -7,7 +8,7 @@
 - **Guests:** [ 0 ]
 - **Current Season:** [ ***Spring*** / Summer / Fall / Winter ]
 - **Current Year and Season:** Year 1, Spring - Year of the Beaver
-
+---
 ## Land & Resources
 
 - **Land Cleared:** 5 plots
@@ -28,6 +29,7 @@
 	- Tavern - *The Starry Crossing*
 	- Small dock
 
+---
 ## Settlement Size by Population (All Residents Housed)
 
 |      |            |                  |                                                                                |
@@ -45,6 +47,7 @@
 | 10   | Large City | 10,000–24,999    | Multiple wards, trade hubs, bureaucratic infrastructure.                       |
 | 11   | Metropolis | 25,000+          | Vast and complex; may influence kingdoms, house noble houses, or be a capital. |
 
+---
 ## Settlement Stat Tracking
 **Options:** [ None / Low / Moderate / High / Excellent ]
 
@@ -59,5 +62,23 @@
 | 💰 Economy     | Trade value, access to goods, local production                   | None                | Marketplace, Storehouses, Dock, Crafting Buildings |
 | 🧭 Exploration | Regional awareness and readiness to discover new land or threats | None                | Scouting Posts, Watchtowers, Mapping Progress      |
 
+---
+## Stat Contributions
 
+Use this to track how each structure contributes to the overall stat system.
 
+|   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|
+|Structure|Safety|Security|Survival|Morale|Growth|Economy|Exploration|
+|Tent City|||✅|||||
+|Communal Fire Pit|||✅|✅||||
+|Working Well|✅|✅|✅|✅|✅|||
+|Housing Units|✅|✅|✅|✅|✅|✅||
+|Watchtower(s)|✅|✅|✅|✅|✅||✅|
+|Storehouses|✅|✅|✅|✅|✅|✅||
+|Marketplace||✅|✅|✅|✅|✅||
+|Dock|✅||✅|✅|✅|✅||
+|Palisade Walls|✅|✅|✅|✅|✅|||
+|Agriculture||✅|✅|✅|✅|✅||
+|Ranch||✅|✅|✅|✅|✅||
+|Named Structures|[ ]|[ ]|[ ]|[ ]|[ ]|[ ]|[ ]|

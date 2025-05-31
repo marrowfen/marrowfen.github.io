@@ -1,4 +1,4 @@
-# Event Modifier System
+# Events
 
 This system introduces dynamic conditions that influence the environment, resource availability, and labor effectiveness in Marrowfen. These represent changes in weather, wildlife activity, settler morale, and supply conditions, shaping the world session by session.
 
