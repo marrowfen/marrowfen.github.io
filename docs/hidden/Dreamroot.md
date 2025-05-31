@@ -31,17 +31,77 @@
 **Key Locations:**
 
 #### Emotion Garden (Pattern Matching / Interpretation Puzzle)
-The meadow blooms with enormous, dreamlike flowers — each tied to an emotion or memory. Frogs, mice, and bugs carry small items (a locket, a broken stick, a dried leaf) and try to match them to the flowers. But they always get it wrong.
 
-**Puzzle Goal:** Players must help the animals match each object to the flower that best represents the _emotion_ tied to Wren’s childhood memory.
+The players enter a sun-dappled meadow humming with soft wind and strange tension. In the center stand **five dream-blooms**, each over four feet tall and glowing with its own internal light. Around the perimeter, five small animals pace nervously, each holding an object too large or too old for them. None of the animals speak — but their eyes plead for help.
 
-**Examples:**
+Each item can be touched. When a player does so, they receive a sudden, fragmented **flashback from Wren’s memory**, filtered through dream-logic. The players must then determine which flower the item belongs to based on emotional resonance.
 
-- A cracked thimble matches with a flower labeled “fear” (first time she touched her father’s tools and cut herself)
-- A firefly in a jar belongs with “wonder” (when she first caught light)
-- A muddy ribbon goes with “loneliness” (when no one came to her tea party)
+---
+### The Flowers
 
-**Mechanics:** Insight, Arcana, or raw empathy. Once all are matched correctly, the animals perform a short, silent dance in thanks — and a fragment of the bracelet grows from the soil.
+- **Red Flower** – Tightly curled petals, warm to the touch, releasing brief flickers of heat  
+    **Emotion:** Fear
+- **Yellow Flower** – Soft light pulses from within, petals curl outward in an open spiral  
+    **Emotion:** Wonder
+- **Blue Flower** – Droops slightly, cool and damp with dew, faint sound of distant wind  
+    **Emotion:** Loneliness
+- **Purple Flower** – Angular buds, faint smell of ink and wood shavings, emits static-like hum  
+    **Emotion:** Frustration
+- **Pink Flower** – Slightly wilted, sweet-scented, surrounded by fallen petals  
+    **Emotion:** Shame
+
+---
+### The Animals and Items
+
+**1. Picklehop the Frog** – Holds a **cracked silver thimble** carefully between both front hands
+
+- **Flashback:**  
+    _Wren sits cross-legged under a table, sewing thread tangled around her fingers. She wears a too-big leather apron and holds a thimble like it’s a knight’s helmet. “I wanna help!” she cries. Her father's hands shake slightly as he hands her a real needle. A sharp poke. A yelp. Blood on the cloth. Her father looks scared. So does she._
+- **Emotion:** Fear
+- **Correct Match:** **Red Flower**
+
+**2. Tiller the Mouse** – Wears a satchel and clutches a **jar with a blinking firefly inside**
+
+- **Flashback:**  
+    _Twilight under the reeds. Wren’s feet splash softly in riverbank puddles as she chases flickers of light. She gasps and cups a small glowing bug in both hands. “You’re mine now, starlight.” Her laughter bounces off cattails like wind chimes._
+- **Emotion:** Wonder
+- **Correct Match:** **Yellow Flower**
+
+**3. Sedge the Squirrel** – Tail matted, dragging a **mud-caked pink ribbon tied in a bow**
+
+- **Flashback:**  
+    _A stone table set for four, tiny teacups filled with puddle water. Wren sits alone in a soggy dress, a party hat drooping over one eye. “You can still come,” she whispers to empty chairs, brushing mud from a bright pink ribbon tied around a napkin._
+- **Emotion:** Loneliness
+- **Correct Match:** **Blue Flower**
+
+**4. Knot the Beetle** – Clicks softly while nudging a **stiff, dried-out paintbrush**
+
+- **Flashback:**  
+    _Smears of blue and purple on a birthday card. Wren leans over it, tongue poking out in concentration. “It’s not right,” she mutters. The paper tears as she presses harder. Her shoulders slump. She shoves the ruined card behind a chest and walks away without a word._
+- **Emotion:** Frustration
+- **Correct Match:** **Purple Flower**
+
+**5. Bramble the Rabbit** – Cradles a **crumpled cupcake wrapper with a tiny wax candle stuck to it**
+
+- **Flashback:**  
+    _Pantry door ajar. Frosting on Wren’s fingers. She stares at the half-eaten cupcake as footsteps approach. Her mother pauses in the doorway — not angry, just surprised. Wren turns her back and lowers her head. “I wasn’t hungry anyway.”_
+- **Emotion:** Shame
+- **Correct Match:** **Pink Flower**
+
+---
+### Puzzle Mechanics
+
+Players may match items through emotional reasoning, Insight, Arcana, or creative roleplay. Each correct match causes the corresponding flower to emit a gentle chime or release a faint shimmer. Incorrect attempts prompt the animal to sadly retrieve the item and try again.
+
+If players hesitate or misplace objects more than three times, Wren’s voice echoes faintly through the garden:  
+_“It’s okay… just try again. You’re close.”_
+
+---
+### Resolution
+
+Once all five items are correctly matched, the animals form a circle around the central patch of moss. The flowers bow toward the center, and a sixth blossom unfolds — inside it, nestled on soft white petals, is a **fragment of Wren’s bracelet**, still strung with dew and thread.
+
+
 #### Clockwork Orchard
 This part of the dreamworld is a grove of mechanical trees. Their trunks are smooth brass, their leaves ticking slowly like watch hands. Mist hangs low to the ground, and strange toys lie half-buried in moss and coils. These are not enemies, but echoes of Wren’s quiet fears. The players must help three toys complete themselves — and in doing so, recover a piece of her bracelet.
 
@@ -93,7 +153,6 @@ When placed in the right order, the library will explode in a flurry of activity
 
 After the birds fly away the library will fade away, to show the real Wren laying in an open meadow, lots of insects, amphibians and animals standing in a circle around her, they will all look to the players with pleading eyes.  
 
-
 #### Characters:
 
 - **Wren (dream-avatar):** Appears differently in each area — joyful child, silent observer, or frightened shadow
@@ -121,6 +180,8 @@ After the birds fly away the library will fade away, to show the real Wren layin
 
 ### ACT 3: Waking
 
+- The players need to find the 3 parts of Wren's bracelet, touching them to each other will cause them to mend
+- The players need to slide the bracelet on the Sleeping Wren's wrist
 - If successful, players wake Wren and themselves
 - Wren has vague recollection, emotionally uplifted — she’s more vibrant, imaginative, and full of wonder
 - The Myconids are grateful, offering continued peace and slow-growing trust
