@@ -88,7 +88,7 @@ StinkStone is more than a mine — it's a living monument to survival, transform
 
 ### Stat Blocks
 
-> [!statblock] BlackStone, Chieftain of Flame
+> [!statblock]- BlackStone, Chieftain of Flame
 > *Medium humanoid (goblin), Lawful Neutral*
 >
 > **Armor Class** 18 (anthracite-forged shield and plate)  
@@ -123,7 +123,7 @@ StinkStone is more than a mine — it's a living monument to survival, transform
 >
 > **Heat Pulse (Recharge 5–6).** BlackStone slams the ground, emitting a 20-foot radius burst of heat. Each enemy must make a DC 17 Constitution save or take 21 (6d6) fire damage and become **Blinded** until the end of their next turn. On a success, they take half damage and are not blinded.
 
-> [!statblock] SparkleStone, Keeper of Shards
+> [!statblock]- SparkleStone, Keeper of Shards
 > *Medium humanoid (goblin), Chaotic Neutral*
 >
 > **Armor Class** 17 (flowing flame forms and anthracite accents)  
@@ -158,7 +158,7 @@ StinkStone is more than a mine — it's a living monument to survival, transform
 >
 > **Shatterflare Shot (Recharge 5–6).** SparkleStone fires a searing bolt of gem-tipped flame in a 15-foot cone. Each creature must make a DC 16 Dexterity save. On a fail: 27 (6d8) fire damage and **Blinded** until end of next turn. On success: half damage, no blindness.
 
-> [!statblock] StinkStone Guard
+> [!statblock]- StinkStone Guard
 > *Medium humanoid (goblin), Neutral*
 >
 > **Armor Class** 16 (anthracite armor)  
