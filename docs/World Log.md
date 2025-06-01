@@ -37,3 +37,14 @@ Twitch Fox left some stuff for the town:
  - Chalk x1
  - Shield x1
  - 20x Platinum
+
+Feather left some stuff for the town:
+ - 45 Arrows
+ - Shortbow
+ - 5 Keoghtom's Ointment
+ - 3 Elixir of Health
+ - Handaxe
+ - 5 flasks of Oil
+ - 3 Dust of Disappearance 
+ - 5 Rations (Dried meats for the tavern until she can get more hunting.)
+ - and 8 gold pieces in a pouch
