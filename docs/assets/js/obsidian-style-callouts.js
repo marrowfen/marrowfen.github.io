@@ -57,27 +57,27 @@ function renderObsidianCallouts() {
         bug: "fa-solid fa-bug",
         example: "fa-solid fa-list",
         quote: "fa-solid fa-quote-left",
-        statblock: "fa-solid fa-dragon"
+        statblock: "fa-solid fa-dice-d20"
     };
 
-function convertInlineMarkdown(text) {
-    const escapeHtml = (str) =>
-        str.replace(/&/g, "&amp;")
-           .replace(/</g, "&lt;")
-           .replace(/>/g, "&gt;");
+    function convertInlineMarkdown(text) {
+        const escapeHtml = (str) =>
+            str.replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;");
 
-    const escaped = escapeHtml(text);
+        const escaped = escapeHtml(text);
 
-    return escaped
-        // bold: **text**
-        .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
-        // italic: *text*
-        .replace(/\*(.+?)\*/g, "<em>$1</em>")
-        // underline: __text__
-        .replace(/__(.+?)__/g, "<u>$1</u>")
-        // strikethrough: ~~text~~ (optional)
-        .replace(/~~(.+?)~~/g, "<s>$1</s>");
-}
+        return escaped
+            // bold: **text**
+            .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+            // italic: *text*
+            .replace(/\*(.+?)\*/g, "<em>$1</em>")
+            // underline: __text__
+            .replace(/__(.+?)__/g, "<u>$1</u>")
+            // strikethrough: ~~text~~ (optional)
+            .replace(/~~(.+?)~~/g, "<s>$1</s>");
+    }
 
 
 
@@ -127,9 +127,9 @@ function convertInlineMarkdown(text) {
                     currentChunk.content.push(h);
                 } else {
                     const p = document.createElement("p");
-const isPlain = !/[<>]/.test(lineText); // skip markdown conversion if tags exist
-p.innerHTML = isPlain ? convertInlineMarkdown(lineText) : lineText;
-currentChunk.content.push(p);
+                    const isPlain = !/[<>]/.test(lineText); // skip markdown conversion if tags exist
+                    p.innerHTML = isPlain ? convertInlineMarkdown(lineText) : lineText;
+                    currentChunk.content.push(p);
 
                 }
 

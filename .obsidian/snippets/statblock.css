@@ -1,0 +1,50 @@
+/* Statblock override for Obsidian */
+.callout[data-callout="statblock"] {
+    --callout-icon: lucide-dices;
+    background: #fdf1dc;
+    border: 2px solid #a52a2a;
+    border-radius: 6px;
+    font-family: Georgia, serif;
+    color: #111;
+    padding: 1em;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+    --callout-color: 0, 0%, 90%;
+    margin: 1.5em 0;
+}
+
+
+.callout[data-callout="statblock"] .callout-title {
+  font-weight: bold;
+  color: #a00;
+  background: none;
+  border: none;
+  padding-bottom: 0.2em;
+}
+
+.callout[data-callout="statblock"] h3,
+.callout[data-callout="statblock"] h4 {
+  color: #7b1e1e;
+  margin-bottom: 0.3em;
+  font-family: Georgia, serif;
+  border-bottom: 2px solid #c88;
+  padding-bottom: 0.2em;
+}
+
+.callout[data-callout="statblock"] hr {
+  border: none;
+  border-bottom: 1px solid #c88;
+  margin: 1em 0;
+}
+
+.callout[data-callout="statblock"] strong {
+  color: #600;
+}
+
+.callout[data-callout="statblock"] em {
+  font-style: italic;
+  color: #333;
+}
+
+.callout[data-callout="statblock"] p {
+  margin: 0.3em 0;
+}
