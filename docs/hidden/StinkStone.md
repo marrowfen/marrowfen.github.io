@@ -2,7 +2,6 @@
 
 ---
 
-> Testing
 ### Overview
 
 **Location Name:** StinkStone  
