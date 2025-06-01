@@ -21,3 +21,19 @@
 | #2  | 05/22/2025 | Test Run: Crossing Over | Bryan Ragnarok, Grush, Vespa, Damian, Massiah Omega        | Gathered resources. Cleared land. Started work on the bridge<br><br>Defended from Orc invasion<br><br>Resources gathered:<br>- Wood<br>- Stone<br>- Clay<br>- Copper ore | Buildings added or completed by villagers:<br>- Bridge<br>- Tavern<br>- Stable<br><br>Orcs are not likely to return unless provoked<br><br>Tavern named: ***The Starry Crossing*** |
 |     |            |                         |                                                            |                                                                                                                                                                          |                                                                                                                                                                                    |
 |     |            |                         |                                                            |                                                                                                                                                                          |                                                                                                                                                                                    |
+
+
+Twitch Fox left some stuff for the town:
+ - Potion of Healing x3
+ - Arrow x20
+ - Torch x10
+ - Ration x20
+ - Oil x3
+ - Hooded Lantern x1
+ - Dagger x5
+ - Cold Weather Clothing x2
+ - Alchemist Fire x3
+ - Blasting Powder x3
+ - Chalk x1
+ - Shield x1
+ - 20x Platinum
