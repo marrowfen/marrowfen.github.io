@@ -12,7 +12,7 @@
 		- [[World Log]]: #1
 - **Character Memorials / Stories:**
 	- Above the door inside *The Starry Crossing* tavern is a plaque:
-> ***To the Adventurers of the Starry Shores** - Who, despite the tribulations, helped secure the western passage across the river and gathered the resources to build our first tavern… **We will never forget you!***
+> **To the Adventurers of the Starry Shores** - Who, despite the tribulations, helped secure the western passage across the river and gathered the resources to build our first tavern… **We will never forget you!**
 
 
 |     | Date       | Session / Event         | Characters Involved                                        | Action Taken / Result                                                                                                                                                    | World Change                                                                                                                                                                       |
