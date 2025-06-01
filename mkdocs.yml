@@ -34,7 +34,6 @@ markdown_extensions:
   - codehilite
   - footnotes
   - md_in_html
-        enable_attributes: true
   - meta
   - attr_list
   - def_list
