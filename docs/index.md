@@ -4,6 +4,7 @@
 - [[World Status]]
 - [[World Events]]
 - [[World Log]]
+- [[World Assets]]
 - [[World Ages]]
 - [[Marrowfen Map]]
 ## Welcome to Marrowfen
