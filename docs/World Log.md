@@ -23,8 +23,7 @@
 |     |            |                         |                                                            |                                                                                                                                                                          |                                                                                                                                                                                    |
 
 
-#### 5/31/25 - Ashes to Assets (Session Run 1)
-**Description**
+> [!summary]- 5/31/25 - Ashes to Assets (Session Run 1)
 > The players followed the tracks of **CharScrap**, a flame-touched goblin with a trader’s heart, back to their ancestral home: the anthracite keep of **StinkStone**.  
 >  
 > **Twitch Fox** and **Feather** each made donations of coin and goods to help support Marrowfen’s growth — small acts with big impact for a budding settlement.
@@ -53,11 +52,10 @@
 > **Twitch Fox** left some stuff for the town: Potion of Healing x3, Arrow x20, Torch x10, Ration x20, Oil x3, Hooded Lantern x1, Dagger x5, Cold Weather Clothing x2, Alchemist Fire x3, Blasting Powder x3, Chalk x1, Shield x1, 20x Platinum
 >
 > **Feather** left some stuff for the town: 45 Arrows, Shortbow, 5 Keoghtom's Ointment, 3 Elixir of Health, Handaxe, 5 flasks of Oil, 3 Dust of Disappearance , 5 Rations (Dried meats for the tavern until she can get more hunting.), and 8 gold pieces in a pouch
-
-##### 🔍 **Unexpected Developments (For Future Attention)**
-
-- The **Starcoal... speaks?** Whether it whispers truths, warnings, or just crackles in a convincing way remains unclear.  
-- Turns out **Starcoal may have uses** in alchemy, enchantment, or strange magical reactions. Grace has a sample, and curiosity is a fire all its own.  
-- The **Marrowfen pine tree** has unexpectedly become a symbol of home for the settlers. No one’s sure if it’s thriving… or adapting.  
-- The town’s three horses now have names: **Dusty**, **Willow**, and **Bran**.
+> 
+> ##### 🔍 **Unexpected Developments (For Future Attention)**
+> - The **Starcoal... speaks?** Whether it whispers truths, warnings, or just crackles in a convincing way remains unclear.  
+>- Turns out **Starcoal may have uses** in alchemy, enchantment, or strange magical reactions. Grace has a sample, and curiosity is a fire all its own.  
+>- The **Marrowfen pine tree** has unexpectedly become a symbol of home for the settlers. No one’s sure if it’s thriving… or adapting.  
+>- The town’s three horses now have names: **Dusty**, **Willow**, and **Bran**.
 
