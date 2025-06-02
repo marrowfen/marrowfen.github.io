@@ -28,6 +28,8 @@
 	- Bridge
 	- Tavern - *The Starry Crossing*
 	- Small dock
+- Assets
+	- See [[Assets]] for a current list
 
 ---
 ## Settlement Size by Population (All Residents Housed)

@@ -1,12 +1,12 @@
 # Home
 
 ## Navigation
-- [[World Status]]
-- [[World Events]]
-- [[World Log]]
-- [[World Assets]]
-- [[World Ages]]
-- [[Marrowfen Map]]
+- [[Status]]
+- [[Log]]
+- [[Assets]]
+- [[Ages]]
+- [[Map]]
+- [[Random Events]]
 ## Welcome to Marrowfen
 
 ***Marrowfen*** is a living, player-driven ***county*** designed for one-shot adventures set in a rugged, evolving frontier. Located along a river in a wetland forest, ***Marrowfen*** began as little more than a muddy trail, a few tents, and a dream. Every session changes the world - literally. Forests may burn, rivers may be bridged, and villages may rise from the soil with the work of adventurers like you.
