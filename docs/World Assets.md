@@ -1,5 +1,6 @@
 # Assets
 
+> This page records the current communal assets held by Marrowfen, contributed by residents and adventurers for the good of the settlement. Supplies include medical provisions, magical items, basic armor and weapons, tools for survival, and essential consumables. Contributions from Twitch Fox and Feather form the bulk of the current inventory, ensuring the town is better equipped for emergencies, defense, and exploration. This list will be updated as new resources are donated or consumed.
 ## Medical
 - 3x Potion of Healing (Twitch Fox)
 - 5x Keoghtom's Ointment (Feather)
