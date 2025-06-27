@@ -28,3 +28,6 @@ A dynamic world where neglect has consequences — and no choice is neutral
 - Players may build, defend, or explore — but ignoring problems can cause them to grow
 - You can return as the same character or someone new — Marrowfen remembers
 - Your absence can open doors... or leave them unguarded**
+
+
+<script src="https://cdn.counter.dev/script.js" data-id="e45cdaff-457f-4ae4-b41d-7bf122de1b06" data-utcoffset="-7"></script>
